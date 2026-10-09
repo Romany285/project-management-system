@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpms=self.webpackChunkpms||[]).push([[125],{2125:(D,t,a)=>{a.r(t),a.d(t,{DashboardModule:()=>r});var E=a(177),o=a(947),d=a(4710),n=a(4810),_=a(7705);let r=(()=>{class s{static{this.\u0275fac=function(u){return new(u||s)}}static{this.\u0275mod=_.$C({type:s})}static{this.\u0275inj=_.G2t({imports:[E.MD,o.G,d.iI,n.r,o.G]})}}return s})()}}]);
