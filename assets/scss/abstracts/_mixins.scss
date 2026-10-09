@@ -9,11 +9,11 @@
 }
 @mixin login-section {
   @include auth-section;
-  background: url("/assets/images/jpeg/login-background.jpeg");
+  background: url("/project-management-system/assets/images/jpeg/login-background.jpeg");
 }
 @mixin request-reset-password-section {
   @include auth-section;
-  background: url("../../images/jpeg/forget-password-background.jpeg");
+  background: url("/project-management-system/assets/images/jpeg/forget-password-background.jpeg");
 }
 @mixin reset-password-section {
   @include login-section;
@@ -21,7 +21,7 @@
 
 @mixin register-section {
   @include auth-section;
-  background: url("/assets/images/jpeg/register-background.jpeg");
+  background: url("/project-management-system/assets/images/jpeg/register-background.jpeg");
 }
 
 @mixin flex-center {
